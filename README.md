@@ -15,5 +15,8 @@ This project analyzes the price evolution of four major assets — AAPL, QQQ, SP
 - Excel — data cleaning, formatting, return calculations
 - Tableau — interactive dashboard
 
+## Dashboard Preview
+![Dashboard](Prices%202020-2023.png)
+
 ## Author
-Hem Silva · [@theseisystem](https://github.com/Hemilysilva-22)
+Hemily Silva · (https://github.com/Hemilysilva-22)
