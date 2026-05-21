@@ -19,4 +19,4 @@ This project analyzes the price evolution of four major assets — AAPL, QQQ, SP
 ![Dashboard](Prices%202020-2023.png)
 
 ## Author
-Hemily Silva · (https://github.com/Hemilysilva-22)
+Hemily Silva · [Github](https://github.com/Hemilysilva-22)
